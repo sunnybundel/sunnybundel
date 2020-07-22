@@ -1,4 +1,35 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Sunny Bundel 👨‍💻
+</h1>
+
+<p align='center'>
+  A front-end developer and UX/UI designer from Ajmer, Rajasthan, India.
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://facebook.com/sunny.bundel/">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sunnybundel/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/sunnybundel/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+   For more details access my blog: <a href='https://mytechtalky.com/'>MyTechTalky</a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:hello@mytechtalky.com'>hello@mytechtalky.com</a>
+</p>
+
 
 <!--
 **sunnybundel/sunnybundel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
