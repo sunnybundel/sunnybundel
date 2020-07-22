@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A front-end developer and UX/UI designer from Ajmer, Rajasthan, India.
+  A front-end designer & back-end developer from Ajmer, Rajasthan, India.
 </p>
 
 
