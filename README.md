@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-   For more details access my blog: <a href='https://mytechtalky.com/'>MyTechTalky</a>
+   For more details access my : <a href='https://sunnybundel.com/'>Portfolio</a>
 </p>
 
 <p align='center'>
